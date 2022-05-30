@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/reminderListFragment">
+
+    <fragment
+        android:id="@+id/reminderListFragment"
+        android:name="com.madpickle.timepills.reminder.ReminderListFragment"
+        tools:layout="@layout/fragment_reminder_list" >
+        <action
+            android:id="@+id/action_reminderListFragment_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
+        <action
+            android:id="@+id/action_reminderListFragment_to_createReminderFragment"
+            app:destination="@id/createReminderFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/introFragment"
+        android:name="com.madpickle.timepills.intro.IntroFragment"
+        android:label="fragment_intro"
+        tools:layout="@layout/fragment_intro" >
+        <action
+            android:id="@+id/action_introFragment_to_reminderListFragment"
+            app:destination="@id/reminderListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.madpickle.timepills.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/createReminderFragment"
+        android:name="com.madpickle.timepills.reminder.creating.CreateReminderFragment"
+        android:label="fragment_create_reminder"
+        tools:layout="@layout/fragment_create_reminder" />
+
+    <action
+        android:id="@+id/action_global_createReminderFragment"
+        app:destination="@id/createReminderFragment"
+        app:enterAnim="@anim/nav_default_pop_enter_anim" />
+
+    <action android:id="@+id/action_global_reminderListFragment"
+        app:destination="@id/reminderListFragment"/>
+    <action android:id="@+id/action_global_introFragment"
+        app:destination="@id/introFragment" />
+</navigation>

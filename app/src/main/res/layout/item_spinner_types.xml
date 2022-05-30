@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@+id/item_type_medicine"
+    android:layout_width="match_parent"
+    android:fontFamily="@font/rubik_light"
+    android:textColor="@color/text_color_1"
+    android:textSize="17sp"
+    style="@style/item_type_style"
+    android:gravity="center"
+    android:layout_height="@dimen/edit_text_height"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Time Pills</string>
+    <string name="next">Продолжить</string>
+    <string name="reminder_title">Напоминания</string>
+    <string name="create_reminder_title">Создание напоминания</string>
+    <string name="settings_title">Настройки</string>
+    <string name="reminders_title">Напоминания</string>
+    <string name="hint_name_reminder">Название медикамента</string>
+    <string name="hint_description_reminder">Описание особенностей приёма</string>
+    <string name="hint_chart_reminder">График уведолений</string>
+    <string name="by_week_day">По дням недели</string>
+    <string name="by_calendar_day">По календарю</string>
+
+    <string-array name="type_array">
+        <item>Выберите тип...</item>
+        <item>Таблетки</item>
+        <item>Капсулы</item>
+        <item>Свечи</item>
+        <item>Раствор</item>
+        <item>Эмульсия</item>
+        <item>Гель</item>
+        <item>Сироп</item>
+        <item>Порошки</item>
+        <item>Аэрозоль</item>
+        <item>Капли</item>
+        <item>Смесь</item>
+        <item>Лекарственный карандаш</item>
+        <item>Другое</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

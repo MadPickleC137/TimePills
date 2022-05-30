@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable-anydpi/btn_pressed_type_1.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable-anydpi/ic_add_task.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable-anydpi/ic_arrow.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable-anydpi/ic_settings_normal.xml" value="0.3356164383561644" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/bottom_nav_bar_shape.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/btn_1_background.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/btn_1_background_dark.xml" value="0.3356164383561644" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/btn_1_n_background.xml" value="0.3356164383561644" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/btn_normal_type_1.xml" value="0.33" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/btn_pressed_type_1.xml" value="0.3356164383561644" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/btn_selector_type_1.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/edit_text_background.xml" value="0.3356164383561644" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/edit_text_background_dark.xml" value="0.3356164383561644" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/fab_background.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/first_item_spinner.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/first_item_spinner_dark.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/group_70.xml" value="0.29814814814814816" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/ic_add_task.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/ic_launcher_background.xml" value="0.28055555555555556" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.28055555555555556" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/ic_white_logo.xml" value="0.23703703703703705" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/intro_background.xml" value="0.23703703703703705" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/item_nav_bar_background.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/item_pick_time_background.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/item_settings_background.xml" value="0.3356164383561644" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/item_spinner_background.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/item_spinner_background_dark.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/last_item_spinner.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/last_item_spinner_dark.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/list_spinner_background.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/list_spinner_background_dark.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/nav_item_background.xml" value="0.3356164383561644" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/pop_up_background.xml" value="0.3356164383561644" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/reminder_menu_button_selector.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/selected_tab_background.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/settings_menu_button_selector.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/spinner_background.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/spinner_background_dark.xml" value="0.3402777777777778" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/toolbar_background.xml" value="0.3356164383561644" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/drawable/toolbar_background_dark.xml" value="0.3356164383561644" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/layout/fragment_calendar.xml" value="0.32592592592592595" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/layout/fragment_create_reminder.xml" value="0.25" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/layout/fragment_intro.xml" value="0.25" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/layout/fragment_reminder_list.xml" value="0.33" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/layout/fragment_settings.xml" value="0.32146118721461187" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/layout/fragment_week.xml" value="0.33" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/layout/item_day_week.xml" value="0.75" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/layout/item_picked_time.xml" value="0.5" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/layout/item_spinner_types.xml" value="0.32592592592592595" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/layout/recyclerview_item.xml" value="0.32592592592592595" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/menu/bottom_nav_bar_menu.xml" value="0.22" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22291666666666668" />
+        <entry key="..\:/native_projects/TimePills/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22291666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

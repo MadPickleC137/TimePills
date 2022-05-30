@@ -1,0 +1,22 @@
+import com.madpickle.buildsrc.AppConfig
+
+buildscript {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+    dependencies{
+        classpath(AppConfig.androidGradlePlugin)
+        classpath(AppConfig.kotlinGradlePlugin)
+        classpath(AppConfig.hilt)
+        classpath(AppConfig.realm)
+        classpath(AppConfig.stdlib)
+        classpath(AppConfig.extensions)
+    }
+
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
